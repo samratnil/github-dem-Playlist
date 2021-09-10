@@ -2,20 +2,7 @@
 Song                           Artist
 =====================================
 
-1. Ae Dil hai Mushkil          Arijit Singh
-2. Teri Mitti                  B Praak
-3. Blue Eyes                   Honey Singh
-4. Chitti Na koi sandesh       Jagjit Singh
-5. Sandeshe Aate Hai           Sonu Nigam
-6. Bholenath                   Kaka 
-
-========================================
-             Oldies 
-========================================
-
-7. Dheere dhere aap mere       Udit Naryan
-8. Ruk ja o dil deewane        Udit Naryan
-9. Hume tumse hua hai pyar     Alka Yagnik
-10. Hum Yaar hai tumhare       Alka Yagnik
-11. Kaho Na Pyaar Hai          Alka Yagnik
-12. Tumse Milana               Alka Yagnik
+1. Hume tumse hua hai pyar     Alka Yagnik
+2. Hum Yaar hai tumhare       Alka Yagnik
+3. Kaho Na Pyaar Hai          Alka Yagnik
+4. Tumse Milana               Alka Yagnik
