@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ========================================
 Song                           Artist
 ========================================
@@ -9,19 +8,3 @@ Song                           Artist
 
 1. Dheere dhere aap mere       Udit Naryan
 2. Ruk ja o dil deewane        Udit Naryan
-=======
-========================================
-Song                           Artist
-========================================
-
-========================================
-             Nineties 
-========================================
-
-1. Dheere dhere aap mere       Udit Naryan
-2. Ruk ja o dil deewane        Udit Naryan
-3. Ek ladki ko dekha           Kumar Sanu 
-4. Dheere dheere se            Kumar Sanu
-5. Pehala Nasha                Udit Naryan 
-Do dil mil rahe                Kumar Sanu 
->>>>>>> nineties
